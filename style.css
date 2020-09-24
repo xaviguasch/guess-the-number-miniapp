@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: cornsilk;
+}
+
+.container {
+  margin: 10rem auto;
+  width: 70%;
+}
